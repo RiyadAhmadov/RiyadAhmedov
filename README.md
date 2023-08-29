@@ -1,4 +1,4 @@
-![logo](https://github.com/RiyadAhmedov/Riyad-Ahmedov/blob/main/cover1.png)
+![logo](https://github.com/RiyadAhmedov/RiyadAhmedov/blob/main/cover1.png)
 <h1 align="center">Hi 👋, I'm Riyad Ahmadov</h1>
 <h3 align="center">A persistent data scientist from Azerbaijan</h3>
 
