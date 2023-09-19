@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Riyad Ahmadov</h1>
 <h3 align="center">A persistent data scientist from Azerbaijan</h3>
 
-<img align = "right" alt = "coding" width = "400"  src = "https://camo.githubusercontent.com/48085222d896c4ab194690cf5820d6288d25e8a1ad22b33b715fdfdbae28e84c/68747470733a2f2f6c61766b7573686b756d61722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30312f70726f66657373696f6e616c2d776f726470726573732d646576656c6f7065722e676966">
+<img align = "right" alt = "coding" width = "400"  src = "https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyadahmedov&label=Profile%20views&color=0e75b6&style=flat" alt="riyadahmedov" /> </p>
 
